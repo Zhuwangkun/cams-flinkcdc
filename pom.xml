@@ -71,7 +71,7 @@
                 <version>3.0.0</version>
                 <configuration>
                     <descriptorRefs>
-                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                        <descriptorRef>fat-jar</descriptorRef>
                     </descriptorRefs>
                 </configuration>
                 <executions>
