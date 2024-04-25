@@ -1,0 +1,206 @@
+2024-04-24 16:31:19.483 [Thread-3320] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:21.858 [Thread-3321] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:23.225 [Thread-3322] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:23.921 [Thread-3323] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:26.579 [Thread-3324] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:27.394 [Thread-3325] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:27.585 [Thread-3326] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:27.785 [Thread-3327] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:27.955 [Thread-3328] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:28.121 [Thread-3329] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:28.281 [Thread-3330] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:30.331 [Thread-3331] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:30.972 [Thread-3328] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.013 [Thread-3326] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.033 [Thread-3331] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.033 [Thread-3322] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.054 [Thread-3320] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.054 [Thread-3321] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.054 [Thread-3325] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.055 [Thread-3329] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.055 [Thread-3324] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.073 [Thread-3327] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.073 [Thread-3330] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:31.092 [Thread-3323] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:32.148 [Thread-3328] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.182 [Thread-3326] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.232 [Thread-3331] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.241 [Thread-3329] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.289 [Thread-3321] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.360 [Thread-3320] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.381 [Thread-3322] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.409 [Thread-3325] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.451 [Thread-3330] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.484 [Thread-3324] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.515 [Thread-3327] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:32.527 [Thread-3323] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:35.295 [Thread-3332] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:31:35.468 [Thread-3332] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:31:36.872 [Thread-3332] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:45.752 [Thread-3332] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:31:57.376 [Thread-3332] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:31:57.638 [Thread-3329] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:57.762 [Thread-3331] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:57.779 [Thread-3326] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:57.779 [Thread-3328] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:57.939 [Thread-3322] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:57.960 [Thread-3320] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.232 [Thread-3325] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.233 [Thread-3321] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.233 [Thread-3330] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.233 [Thread-3327] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.257 [Thread-3323] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.283 [Thread-3324] WARN  io.github.biezhi.wechat.api.WechatApi - [登陆超时] 
+
+2024-04-24 16:31:58.639 [Thread-3329] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:58.764 [Thread-3331] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:58.780 [Thread-3326] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:58.782 [Thread-3328] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:58.940 [Thread-3322] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:58.961 [Thread-3320] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:59.234 [Thread-3321] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:59.234 [Thread-3325] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:59.234 [Thread-3330] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:59.234 [Thread-3327] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:59.259 [Thread-3323] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:31:59.285 [Thread-3324] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+
+2024-04-24 16:32:08.918 [Thread-3327] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:08.974 [Thread-3329] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:08.975 [Thread-3328] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:08.975 [Thread-3322] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:08.975 [Thread-3326] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:08.975 [Thread-3330] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:08.989 [Thread-3323] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:09.008 [Thread-3331] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:09.032 [Thread-3321] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:09.032 [Thread-3325] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:09.032 [Thread-3320] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:09.048 [Thread-3324] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请在手机上点击确认以登录 ... 
+
+2024-04-24 16:32:09.220 [Thread-3326] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3328] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3327] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3321] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3331] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3323] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3325] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3324] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3320] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.270 [Thread-3329] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.271 [Thread-3330] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.271 [Thread-3322] DEBUG io.github.biezhi.wechat.api.WechatApi - [*] 请求 => Request{method=GET, url=https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=A53arclGHvTYcJvm16EKxXYk@qrticket_0&uuid=QaB08snrtQ==&lang=zh_CN&scan=1713947505&fun=new&target=t, tags={}}
+
+2024-04-24 16:32:09.530 [Thread-3332] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=WKrIbaqlLO+ePzd9;wxloadtime=1713947529;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSfwAyzZJsVTZwooLCsWFto+;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc55bbfa1c4a17132405ac61547bf920dc09;webwx_auth_ticket=CIsBEJmxmekKGoABrAd0MxeOqttkCs5utUoaCr+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3tNNRd7ZhSMaXUlzOazuDVjPicn8h/A4CVqhLM7jeO6qVclitU7gJUJDrdC9I3sW+Wyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:09.964 [Thread-3323] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie []
+2024-04-24 16:32:10.064 [Thread-3324] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=7kbd2z8J9gvd+Y8X;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSfHX+uUBMWXruXjOQYxm8Ny;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.067 [Thread-3326] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=kFlHEQmwm4GiZ05F;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSfQOfoXUQVUqEwD1y30ZHjX;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.083 [Thread-3327] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=ygtVRzCNjO1tICwl;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSeqd3rYnwdd/ZXgL9hachXa;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.122 [Thread-3328] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie []
+2024-04-24 16:32:10.123 [Thread-3329] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=eoW5dMDMdOuoZ31y;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gScobp32cTJo4bd9M1lh2ejP;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.146 [Thread-3320] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=3xdbUZLQbIRQ8t3X;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gScItg2wQW7Dy0CwYirWf6lW;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.169 [Thread-3322] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie []
+2024-04-24 16:32:10.170 [Thread-3321] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=mV4yzaWPbq0Xo6fG;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSeDm2kJEbGBq+3lJCGuNQG6;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.170 [Thread-3325] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=GbyIA0C27ACTRSl7;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSffYuAPNY1AEiqKIO62cXc5;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.203 [Thread-3331] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=AcT9iDoYqoSR4tFI;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSfMgHDajeYZwGsCG1dVzNJT;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:10.205 [Thread-3330] INFO  io.github.biezhi.wechat.api.WechatApi - [*] 设置cookie [wxuin=324802503;wxsid=YRQsL/h7Vwd10W45;wxloadtime=1713947530;mm_lang=zh_CN;wxuin=324802503;webwx_data_ticket=gSfQydXGGh+PWXeyIJAkJfu0;webwxuvid=c8c3cca0c5e8afa48b8799c7c84c404396513e8b95492a3be121eb353179bc559e2f531322d82719edc9dbab9afc906f;webwx_auth_ticket=CIsBEOWv3dUFGoABkn5Pd+iKqT/By94Iiwyg+b+oD9NOVouxuZqpBvlEJhX1GeLpaZEZ7tA+j3GlZixBRPuBBpU/AtX+xMBpnZlF3imDVIRisMxZowFWZodxf94FPi84pUT6KrpDT7T5ZUEO/sHVyBfX8WIcEAE4aYRgiGyn4c9tsTe3DnvvQj3aoKk=;]
+2024-04-24 16:32:11.481 [Thread-3337] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 开启状态通知 ... 
+2024-04-24 16:32:11.760 [Thread-3337] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 获取联系人 ... 
+2024-04-24 16:32:12.045 [Thread-3338] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 开启状态通知 ... 
+2024-04-24 16:32:12.257 [Thread-3338] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 获取联系人 ... 
+2024-04-24 16:32:12.771 [Thread-3337] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 应有 [0] 个联系人，读取到联系人 [0] 个
+
+2024-04-24 16:32:12.771 [Thread-3337] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 共有 [0] 个群 | [0] 个直接联系人 | [30] 个特殊账号 ｜ [0] 个公众号/服务号
+
+2024-04-24 16:32:13.281 [Thread-3338] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 应有 [0] 个联系人，读取到联系人 [0] 个
+
+2024-04-24 16:32:13.281 [Thread-3338] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 共有 [0] 个群 | [0] 个直接联系人 | [30] 个特殊账号 ｜ [0] 个公众号/服务号
+
+2024-04-24 16:32:28.456 [Thread-3339] INFO  io.github.biezhi.wechat.api.WechatClient - intercept msg : type:51, msg:null
+2024-04-24 16:32:28.456 [Thread-3339] INFO  io.github.biezhi.wechat.api.WechatClient - intercept msg : type:51, msg:null
+2024-04-24 16:32:28.456 [Thread-3339] INFO  io.github.biezhi.wechat.api.WechatClient - intercept msg : type:51, msg:null
+2024-04-24 16:34:02.418 [Thread-3348] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 开启状态通知 ... 
+2024-04-24 16:34:02.768 [Thread-3348] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 获取联系人 ... 
+2024-04-24 16:34:03.746 [Thread-3348] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 应有 [0] 个联系人，读取到联系人 [0] 个
+
+2024-04-24 16:34:03.747 [Thread-3348] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 共有 [0] 个群 | [0] 个直接联系人 | [30] 个特殊账号 ｜ [0] 个公众号/服务号
+
+2024-04-24 16:34:49.827 [Thread-3339] WARN  io.github.biezhi.wechat.api.WechatClient - [*] 你在手机上登出了微信
+
+2024-04-24 16:34:57.975 [Thread-3413] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取 uuid ... 
+2024-04-24 16:34:58.272 [Thread-3413] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 正在获取二维码 ... 成功
+
+2024-04-24 16:34:59.486 [Thread-3413] INFO  io.github.biezhi.wechat.api.WechatClient - [*] 请使用微信扫描二维码以登录 ... 
+

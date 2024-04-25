@@ -30,4 +30,10 @@
 [//]: # (git config --global user.name "你的用户名")
 [//]: # (git config --global user.email "你的邮箱")
 [//]: # (完成以上步骤后，你的本地修改就会被提交并上传到远程仓库了。)
+[//]: # (如果登录不上，可以考虑更换协议：考虑到可能是HTTPS连接的问题，可以尝试使用SSH协议来连接GitHub，这通常更稳定且不受某些网络限制的影响。要使用SSH，你需要：)
+[//]: # (在GitHub上为你的账户生成SSH密钥（如果还没有的话）。)
+[//]: # (将公钥添加到GitHub账户的SSH keys列表中。)
+[//]: # (更改本地仓库的远程URL为SSH格式，可以通过以下命令完成转换：)
+[//]: # (git remote set-url origin git@github.com:Zhuwangkun/cams-flinkcdc.git)
+[//]: # (再次尝试推送。)
 此项目是支持于客户华泰某部门的实时开发测试代码，目前涉及到FlinkCdc。。
