@@ -29,4 +29,4 @@
 [//]: # (更改本地仓库的远程URL为SSH格式，可以通过以下命令完成转换：)
 [//]: # (git remote set-url origin git@github.com:Zhuwangkun/cams-flinkcdc.git)
 [//]: # (再次尝试推送。)
-此项目是支持于客户华泰某部门的实时开发测试代码，目前涉及到FlinkCdc。。
+此项目是支持于客户华泰某部门的实时开发测试代码，目前涉及到FlinkCdc。
