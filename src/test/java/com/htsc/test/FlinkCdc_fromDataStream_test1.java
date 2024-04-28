@@ -25,7 +25,7 @@ public class FlinkCdc_fromDataStream_test1 {
                 .password("Binlog.123456")
                 .databaseList("testdb")
                 .tableList("testdb.t1")
-                .startupOptions(StartupOptions.initial())
+                .startupOptions(StartupOptions.latest())
                 .deserializer(new JsonDebeziumDeserializationSchema())
                 .build();
 
