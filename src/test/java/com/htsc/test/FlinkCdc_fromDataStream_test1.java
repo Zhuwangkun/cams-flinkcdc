@@ -24,13 +24,13 @@ public class FlinkCdc_fromDataStream_test1 {
                 .username("root")
                 .password("Binlog.123456")
                 .databaseList("testdb")
-                .tableList("testdb.t1")
+                .tableList("testdb.t2")
                 .startupOptions(StartupOptions.initial())
                 .deserializer(new JsonDebeziumDeserializationSchema())
                 .build();
 
         //读取数据
-        DataStreamSource<String> mysqlDS = env.fromSource(mySqlSource, WatermarkStrategy.noWatermarks(), "mysql-source");
+        DataStreamSource<String> mysqlDS = env.fromSource(mySqlSource, WatermarkStrategy.noWatermarks(), "mySqlsource");
 
         mysqlDS.print();
 
